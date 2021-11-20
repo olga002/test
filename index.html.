@@ -1,1 +1,26 @@
+<html>
+    <title> мой проект </title>
+    <body>
+    <header>
+        <h1> наша рпирода  </h1> 
+    </header> 
+    <main>
+        <p> text </p>
 
+    <img src="https://image.winudf.com/v2/image1/Y29tLmdmLnZpcnR1YWwudGlnZXIuZmFtaWx5LnNpbXVsYXRvci53aWxkZ2FtZXNfc2NyZWVuXzFfMTU4MjQ1NTUzN18wNTY/screen-3.jpg?fakeurl=1&type=.jpg" height="300px" width="700px">
+   <table style="border:1px solid blue">
+       <tr>
+           <td>123</td>
+           <td>321</td>
+        </tr>
+        <tr>
+            <td>456</td>
+            <td>654</td>
+        </tr>
+   </table>
+    </main>
+    <footer>
+
+    </footer>
+    </body>
+</html>
